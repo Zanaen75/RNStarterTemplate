@@ -13,11 +13,7 @@ const COLORS = {
 };
 
 const FONT = {
-  regular: "LatoRegular",
-  bold: "LatoBold",
-  Light: "LatoLight",
-  thin: "LatoThin",
-  black: "LatoBlack",
+  Lato: "Lato",
 };
 
 const SIZES = {
